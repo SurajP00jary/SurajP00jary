@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hello !!!
+I am Suraj Poojary...
+I am a Student at JNNCE,Shimoga
+Karnataka
 <!--
 **SurajP00jary/SurajP00jary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
